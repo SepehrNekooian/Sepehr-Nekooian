@@ -1,5 +1,8 @@
 # Hello 👋, I'm Sepehr Nekooian
-## Front End Developer
+
+## About me
+
+# Front End Developer
 I’m Parsa, 33 years old and Deaf, and a Front-End Developer passionate about creating visually appealing designs and smooth user experiences. I specialize in HTML, CSS, JavaScript, and frameworks like React, building modern, fast, and responsive websites and applications. With a continuous learning mindset and strong attention to detail, I’m always looking for the best solutions and creative ideas. My goal is to combine beauty and functionality in every project to deliver an unforgettable experience for users.
 
 ## 🌐 Contact Me:
@@ -14,9 +17,6 @@ I’m Parsa, 33 years old and Deaf, and a Front-End Developer passionate about c
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SepehrNekooian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SepehrNekooian&icon=0&color=0)](https://visitcount.itsvg.in)
