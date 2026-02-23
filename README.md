@@ -1,3 +1,6 @@
+## Hello 👋, I'm Sepehr Nekooian
+# Front End Developer
+I’m Parsa, 33 years old and Deaf, and a Front-End Developer passionate about creating visually appealing designs and smooth user experiences. I specialize in HTML, CSS, JavaScript, and frameworks like React, building modern, fast, and responsive websites and applications. With a continuous learning mindset and strong attention to detail, I’m always looking for the best solutions and creative ideas. My goal is to combine beauty and functionality in every project to deliver an unforgettable experience for users.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sepfront_end?igsh=MWJqcmllanMxeTd4NA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/snekoian/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snekoian@gmail.com) 
